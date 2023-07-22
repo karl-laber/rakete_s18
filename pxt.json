@@ -1,5 +1,5 @@
 {
-    "name": "Rakete_S18",
+    "name": "RGB_LED_S.21",
     "description": "",
     "dependencies": {
         "core": "*"
